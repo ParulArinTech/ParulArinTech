@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parul
 - 👀 I’m interested in <a href="https://www.ansible.com/">
-  <img src="https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg" height="20">
+  <img src="https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg" height="25">
 </a>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
