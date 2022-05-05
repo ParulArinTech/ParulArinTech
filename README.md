@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parul
-- [![github](https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg)][1]
+- (https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg)
 - 👀 I’m interested in ![svg-50x50](https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
