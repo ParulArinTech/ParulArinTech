@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Parul
-- <a href="https://olivermak.es/">
-  <img src="https://olivermak.es/resources/icons/favicon144.svg" width="100%" height="144">
+- 👀 I’m interested in <a href="https://olivermak.es/">
+  <img src="https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg" width="100%" height="50">
 </a>
-- 👀 I’m interested in ![](https://www.ansible.com/hubfs/2017_Images/BrandPage/Brand-Assets/Community/Ansible-Mark-RGB_Pool.svg =50x50)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
